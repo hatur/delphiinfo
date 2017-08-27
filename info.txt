@@ -1,0 +1,10 @@
+{ multi
+line }
+
+(* multi
+line *)
+
+// single
+
+program <- main app
+unit xxx <- unit decl
