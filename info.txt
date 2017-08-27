@@ -8,3 +8,7 @@ line *)
 
 program <- main app
 unit xxx <- unit decl
+
+{$C+} or {$C-} {$ASSERTIONS ON} or {$ASSERTIONS OFF} 
+
+{$ <- indexer | end -> }
